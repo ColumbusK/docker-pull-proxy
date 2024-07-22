@@ -4,3 +4,5 @@ ubuntu/squid:latest registry.cn-wulanchabu.aliyuncs.com/dify017/squid:latest
 semitechnologies/weaviate:1.19.0 registry.cn-wulanchabu.aliyuncs.com/dify017/weaviate:1.19.0 
 langgenius/dify-web:0.6.13 registry.cn-wulanchabu.aliyuncs.com/dify017/dify-web:0.6.13
 postgres:15-alpine registry.cn-wulanchabu.aliyuncs.com/dify017/postgres:15-alpine
+nginx:latest registry.cn-wulanchabu.aliyuncs.com/dify017/nginx:latest
+redis:6-alpine registry.cn-wulanchabu.aliyuncs.com/dify017/redis:6-alpine
